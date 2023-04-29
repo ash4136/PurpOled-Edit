@@ -92,7 +92,7 @@
         "#transparent", false,"#transparent"
       ],
       "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-        "#FFFFFF", false,"#FFFFFF"
+        "#E0B0FF", false,"#E0B0FF"
       ],
       "CHANNEL_ICON": [
         "#4e1473",false,"#4e1473"
