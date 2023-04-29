@@ -130,7 +130,7 @@
       
     
     "color": "#4e1473"
-  },
+    },
    
     "background": {
       "url": "https://i.redd.it/d596ve0ibhw21.jpg",
@@ -138,7 +138,10 @@
       "alpha": 0.5
   
     },
-  
     
-    "spec": 2
+    
+    "spec": 2,
+    "color": "#4d4463"
+
+    
   }
