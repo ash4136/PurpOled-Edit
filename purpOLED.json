@@ -26,7 +26,7 @@
         
       ],
       "INTERACTIVE_ACTIVE":
-       ["#4e1473", false, "#4e1473"
+       ["#5d2085", false, "#5d2085"
         
       ],
       "INTERACTIVE_MUTED": [
@@ -61,20 +61,20 @@
      
       ],
       "BACKGROUND_MENTIONED_HOVER": [
-        "#4e1473",false,"#4e1473"
+        "#5d2085",false,"#5d2085"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-        "#4e1473",false,"#4e1473"
+        "#5d2085",false,"#5d2085"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT": [
-        "#4e1473",false,"#4e1473"
+        "#5d2085",false,"#5d2085"
       ],
      
       "BACKGROUND_MESSAGE": [
         "#0c0b0d", false,"#0c0b0d"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-        "#764a91", false,"#764a91"
+        "#7e6b8a", false,"#7e6b8a"
       ],
       "SCROLLBAR_THIN_THUMB": [
         "#transparent", false,"#transparent"
@@ -95,7 +95,7 @@
         "#E0B0FF", false,"#E0B0FF"
       ],
       "CHANNEL_ICON": [
-        "#4e1473",false,"#4e1473"
+        "#5d2085",false,"#5d2085"
       ],
       "CHANNELS_DEFAULT": [
         "#E0B0FF", false, "#E0B0FF"
@@ -104,7 +104,7 @@
         "#E0B0FF", false, "#E0B0FF"
       ],
       "HEADER_PRIMARY": [
-        "#4e1473",false,"#4e1473"
+        "#5d2085",false,"#5d2085"
       ]
     },
     "rawColors": {
@@ -112,9 +112,9 @@
       "PRIMARY_500": "#0B0B0B",
       "PRIMARY_630": "#0c0b0d",
       "PRIMARY_800": "#0c0b0d",
-      "BRAND_260": "#4e1473",
-      "BRAND_360": "#4e1473",
-      "BRAND_500": "#4e1473",
+      "BRAND_260": "#5d2085",
+      "BRAND_360": "#5d2085",
+      "BRAND_500": "#5d2085",
       "WHITE": "#FFFFFF",
       "RED_260": "#FFFFFF",
       "GREEN_600": "#FFFFFF",
@@ -122,14 +122,14 @@
       "BRAND_330": "#FFFFFF",
       "BRAND_345": "#FFFFFF",
       "YELLOW_300": "#9F2B68",
-      "RED_345": "#4e1473",
-      "PRIMARY_400": "#4e1473"
+      "RED_345": "#5d2085",
+      "PRIMARY_400": "#5d2085"
     },
     "unsafe_colors": {
       "CHAT_GREY": "#0c0b0d",
       
     
-    "color": "#4e1473"
+    "color": "#5d2085"
     },
    
     "background": {
