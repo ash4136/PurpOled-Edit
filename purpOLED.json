@@ -1,4 +1,4 @@
-{
+#0d0d0d{
     "name": "purpOLED",
     "version": "1.0",
     "description": "AMOLED Theme for dark mode with some nice purple accents",
@@ -74,7 +74,7 @@
         "#0c0b0d", false,"#0c0b0d"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-        "#262626", false,"#262626"
+        "#0d0d0d", false,"#0d0d0d"
       ],
       "SCROLLBAR_THIN_THUMB": [
         "#transparent", false,"#transparent"
